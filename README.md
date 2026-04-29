@@ -16,4 +16,6 @@ cd repo
 chmod +x install.sh
 ./install.sh
 ```
-Now you can use it by typing cobf
+# How to use
+<img width="1167" height="355" alt="{EFF4320E-EC0E-47E9-AB64-A592FFD75D0B}" src="https://github.com/user-attachments/assets/5434dda5-69f3-4ad3-a54e-9ee7c32560ef" />
+
